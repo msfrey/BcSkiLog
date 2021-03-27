@@ -1,0 +1,18 @@
+Elastic Bean Stalk Django App
+
+####### 
+Local Development
+
+1. Pip 
+	Check current: 
+	py -m pip --version 
+	
+	Upgrade
+	py -m pip install -U pip
+
+
+And an Nginx served front end
+
+Connected to a DB 
+
+and integrate mapping technologies 
